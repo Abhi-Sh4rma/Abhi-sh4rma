@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate Coder</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJqNnd0MXhwMnU4eGxlb3d4b211azhod3hmNjBscG14cHdibnltciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G3vpyZ47YD824yuOB0/giphy.webp">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm91eTl3OGcxejY4bGx1dXVyem9meHMzNHMzM2EyN25kZHQ0dTQ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-sh4rma&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-sh4rma" /> </p>
 
