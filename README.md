@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Coder</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWU4Zmc5cXZkcGw1a3BzZ3Rpcnl6YXEwYTBkOXY1OXZvcHVwNzE2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fmkYSBlJt3XjNF6p9c/giphy.webp">
 
