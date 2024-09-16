@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">A passionate Coder</h3>
+<h3 align="center">I am a B.Tech CSE Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm91eTl3OGcxejY4bGx1dXVyem9meHMzNHMzM2EyN25kZHQ0dTQ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp">
 
