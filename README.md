@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **django framework, Machine, Learning and AI**
 
-- 👨‍💻 All of my projects are available at [https://abhi-sh4rma.github.io/]((https://abhisharma.vercel.app/))
+- 👨‍💻 All of my projects are available at ([Link:](https://abhisharma.vercel.app/))
 
 - 💬 Ask me about **Django, python, data Visualization**
 
