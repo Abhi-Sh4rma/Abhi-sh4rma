@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Sharma;I+am+a+B.Tech+CSE+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhishek+Sharma;Cybersecurity+(SOC+%2F+Blue+Team)+Learner;Python+%7C+Windows+%26+Linux+Logs;Building+hands-on+security+projects;Always+learning%2C+always+documenting" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm91eTl3OGcxejY4bGx1dXVyem9meHMzNHMzM2EyN25kZHQ0dTQ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.webp">
@@ -14,53 +14,46 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🌱 I'm currently learning **Django Framework, Machine Learning and AI**
-- 👨‍💻 All of my projects are available at [Portfolio](https://abhishek-sharma-portfolio-zeta.vercel.app/)
-- 💬 Ask me about **Django, Python, Data Visualization**
-- 📫 How to reach me: **sanhishek72@gmail.com**
-- ⚡ Fun fact: I love turning coffee into code ☕
+- 🎓 B.Tech CSE student  
+- 🔁 Transitioned from **Data Science / Full Stack Development** to **Cybersecurity**
+- 🛡️ Currently focused on **SOC / Blue Team fundamentals**
+- 📜 Learning how to analyze **Windows Event Logs** and **Linux authentication logs**
+- 🐍 Using **Python** for automation, log parsing, and security-related scripting
+- 🧪 I document my hands-on learning openly on GitHub (labs, notes, scripts)
+- 🎯 Goal: Become a **job-ready entry-level SOC / Blue Team analyst**
+
+I believe cybersecurity is about **understanding systems deeply**, not just running tools.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Focus (Cybersecurity)
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🖥️ Operating Systems: Windows, Linux  
+- 📜 Logs & Monitoring:
+  - Windows Event Logs (login success/failure, system events)
+  - Linux auth logs  
+- 🔍 Concepts:
+  - SOC workflows
+  - Incident analysis & basic detection thinking  
+- 🐍 Scripting:
+  - Python for automation and log analysis  
+- 🧰 Tools (learning phase):
+  - Event Viewer
+  - CLI utilities (Windows & Linux)
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+---
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## 🧩 Background Experience (Previous Focus)
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+- Python, Django, Flask  
+- Data Science & ML fundamentals  
+- Web Development: HTML, CSS, JavaScript  
+- Databases: MySQL, MongoDB, SQLite  
+- Android & Flutter basics  
 
-### Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+(These form my technical foundation, but my **current direction is cybersecurity**.)
 
 ---
 
@@ -101,22 +94,18 @@
 ```python
 class Abhishek:
     def __init__(self):
-        self.name = "Abhishek Sharma"
-        self.role = "B.Tech CSE Student"
-        self.current_learning = [
-            "Django Framework",
-            "Machine Learning",
-            "Artificial Intelligence"
+        self.role = "SOC / Blue Team Learner"
+        self.current_focus = [
+            "Windows Event Logs",
+            "Linux Authentication Logs",
+            "Incident Analysis Basics",
+            "Python for Security Automation"
         ]
-        self.interests = [
-            "Web Development",
-            "Data Science",
-            "Mobile Development",
-            "AI/ML"
-        ]
-    
-    def say_hi(self):
-        return "Thanks for dropping by! Let's connect and build something amazing together! 🚀"
+        self.learning_style = "Hands-on + Documentation"
+
+    def goal(self):
+        return "Become a job-ready entry-level SOC analyst"
+
 ```
 
 ---
