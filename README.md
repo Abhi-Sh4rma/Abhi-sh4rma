@@ -1,28 +1,36 @@
-<!-- ████████████████████████████████████████████████████████████
-     ABHISHEK SHARMA — GitHub Profile README
-     SOC / Blue Team | Threat Detection | Python Security
-████████████████████████████████████████████████████████████ -->
+<!-- ══════════════════════════════════════════════════════════════
+     ABHISHEK SHARMA · GitHub Profile README
+     Offensive Security · Bug Bounty · Python · Web Pentesting
+══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  INITIALIZING SECURE CONNECTION...                            ║
-║  OPERATOR : ABHISHEK SHARMA                                   ║
-║  CLEARANCE: SOC / BLUE TEAM ANALYST                           ║
-║  STATUS   : ████████████████████  ONLINE                      ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ██████╗ ██████╗ ██╗  ██╗██╗    ███████╗██╗  ██╗ █████╗       ║
+║  ██╔══██╗██╔══██╗██║  ██║██║    ██╔════╝██║  ██║██╔══██╗      ║
+║  ███████║██████╔╝███████║██║    ███████╗███████║███████║      ║
+║  ██╔══██║██╔══██╗██╔══██║██║    ╚════██║██╔══██║██╔══██║      ║
+║  ██║  ██║██████╔╝██║  ██║██║    ███████║██║  ██║██║  ██║      ║
+║  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝      ║
+║                                                                  ║
+║   OPERATOR  : ABHISHEK SHARMA          LOCATION : AMBALA 🇮🇳    ║
+║   ROLE      : Offensive Security Learner · Bug Bounty Hunter    ║
+║   STATUS    : ████████████████████░░░  ACTIVE                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=SOC+%2F+Blue+Team+Learner+%F0%9F%9B%A1%EF%B8%8F;Threat+Detection+%7C+Incident+Response;Windows+Event+Logs+4624+%7C+4625+%7C+4688;Python+Security+Automation;Building+Real+Detection+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Offensive+Security+%7C+Bug+Bounty+Hunter+%F0%9F%8E%AF;Web+Pentesting+%7C+XSS+%7C+SQLi+%7C+CORS+%7C+IDOR;TryHackMe+Top+1%25+%7C+IBM+Cybersecurity+Certified;Python+Security+Automation+%7C+Recon+Tools;Final+Year+B.Tech+CSE+%E2%86%92+Pentest+Career" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-00F5FF?style=for-the-badge&logoColor=black)](https://abhishek-portfolio-swart-alpha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-291a42250/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanhishek72@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhi-Sh4rma)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe_Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
 
 <br/>
 
@@ -34,74 +42,113 @@
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
 
 ## `> whoami`
 
 ```python
 class Abhishek:
 
-    name     = "Abhishek Sharma"
-    location = "Ambala, Haryana 🇮🇳"
-    degree   = "B.Tech CSE — MM University (2022–2026)"
+    name      = "Abhishek Sharma"
+    location  = "Ambala → Mumbai (Jun 2026) 🇮🇳"
+    degree    = "B.Tech CSE — MM University (2022–2026)"
 
-    role     = "SOC / Blue Team Learner"
-    focus    = [
-        "Threat Detection & Alert Triage",
-        "Windows Security Event Log Analysis",
-        "Incident Response Pipelines",
-        "Python Security Automation",
-        "MITRE ATT&CK Framework"
+    track     = "Offensive Security / Bug Bounty"
+    skills    = [
+        "Web App Pentesting (XSS, SQLi, CORS, IDOR, SSRF)",
+        "Burp Suite · Nmap · Python Automation",
+        "Recon → Exploit → Report Pipeline",
+        "SOC / Blue Team Fundamentals",
+        "CTF Challenges · HTB · TryHackMe Top 1%"
     ]
 
-    goal  = "Land an entry-level SOC Analyst role"
-    motto = "Understand the system. Defend the perimeter."
+    certs     = ["IBM Cybersecurity Analyst", "TryHackMe Top 1%"]
+    goal      = "Land an Offensive Security / Pentest role"
+    motto     = "Attack to understand. Understand to defend."
 ```
 
 <br clear="right"/>
 
 ---
 
-## `> ls ./active-operations`
+## `> ls ./projects --all`
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛡️ Intelligent IDS-IR
-**SOC Alert Dashboard**
+### 🔍 ReconAI
+**Automated Recon & Vuln Scanner**
 
-> `Python` · `PowerShell` · `Flask` · `Windows Logs`
+> `Python` · `Sublist3r` · `Amass` · `Nmap` · `Groq AI`
 
-Real SOC-style intrusion detection pipeline built on **live Windows Security Event Logs** from a VM.
+7-stage automated recon-to-report CLI — subdomain enum, port scanning, CVE lookup and AI-generated PDF reports.
 
-- ✅ Event ID **4624 / 4625** normalization & correlation
-- ✅ Time-window **brute-force detection**
-- ✅ Success-after-failure correlation engine
-- ✅ Dynamic risk scoring + severity escalation
-- ✅ Auto-refreshing Flask web dashboard
+- ✅ Sublist3r + Amass subdomain enumeration
+- ✅ Nmap port & service fingerprinting
+- ✅ NVD API CVE correlation per service
+- ✅ Groq / Llama3 AI-generated PDF report
+- ✅ Tested on real staging domain (written permission)
 
-![CRITICAL](https://img.shields.io/badge/Threat_Level-CRITICAL-ff003c?style=flat-square&labelColor=0d1117)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00ff88?style=flat-square&labelColor=0d1117)
+[![Repo](https://img.shields.io/badge/GitHub-ReconAI-00f5ff?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Abhi-Sh4rma/reconai)
+![Status](https://img.shields.io/badge/Status-COMPLETE-00ff88?style=flat-square&labelColor=0d1117)
 
 </td>
 <td width="50%">
 
-### 🔐 RansomWatch
-**Real-Time Ransomware Detector**
+### 🐛 BugFlow
+**Full-Stack Bug Bounty Platform**
 
-> `Python` · `PowerShell` · `Behavioral Analysis`
+> `FastAPI` · `React` · `PostgreSQL` · `ReconAI`
 
-Real-time file system monitor detecting ransomware-like behavior in a controlled Windows environment.
+Full-stack bug bounty workflow platform with JWT auth, dark dashboard and AI report generation powered by ReconAI.
 
-- ✅ Detects rapid file modifications & bulk renaming
-- ✅ Suspicious **extension change** detection
-- ✅ `config.json` configurable threshold alerting
-- ✅ Built-in **ransomware simulation module**
-- ✅ Structured alerts with risk scoring
+- ✅ FastAPI backend + React dark dashboard
+- ✅ JWT authentication system
+- ✅ Groq AI report generation
+- 🔧 Celery + Redis background tasks (WIP)
+- 🔧 WebSockets · PDF export · Docker · Deploy
 
-![HIGH](https://img.shields.io/badge/Threat_Level-HIGH-ff6600?style=flat-square&labelColor=0d1117)
-![Status](https://img.shields.io/badge/Status-ACTIVE-00ff88?style=flat-square&labelColor=0d1117)
+[![Repo](https://img.shields.io/badge/GitHub-BugFlow-ff6600?style=flat-square&logo=github&labelColor=0d1117)](https://github.com/Abhi-Sh4rma/bugflow)
+![Status](https://img.shields.io/badge/Status-IN_PROGRESS-ff6600?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 CORS Attack Lab
+**Misconfiguration Demo & Hunter**
+
+> `Python` · `Flask` · `JavaScript`
+
+Complete CORS misconfiguration attack lab — vulnerable Flask app, Python hunter script and HTML exploit PoC page.
+
+- ✅ Vulnerable Flask app (intentionally misconfigured)
+- ✅ Python CORS hunter script (automated detection)
+- ✅ HTML exploit page (PoC credential theft demo)
+- ✅ LinkedIn showcase — 10,000+ impressions
+
+![Type](https://img.shields.io/badge/Type-Web_Attack_Lab-ff003c?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-COMPLETE-00ff88?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%">
+
+### 🛡️ SentinelSOC
+**IDS & Incident Response System**
+
+> `Python` · `Flask` · `Windows Event Logs`
+
+Final-year project — SOC-style IDS pipeline on live Windows Security Event Logs from a VMware lab.
+
+- ✅ Event ID 4624 / 4625 brute-force detection
+- ✅ Success-after-failure correlation engine
+- ✅ Dynamic 4-level risk scoring system
+- ✅ Auto-refreshing Flask SOC dashboard
+
+![Status](https://img.shields.io/badge/Status-COMPLETE-00ff88?style=flat-square&labelColor=0d1117)
+![Type](https://img.shields.io/badge/Type-Final_Year_Project-00f5ff?style=flat-square&labelColor=0d1117)
 
 </td>
 </tr>
@@ -113,37 +160,34 @@ Real-time file system monitor detecting ransomware-like behavior in a controlled
 
 <div align="center">
 
-**`// SECURITY CORE`**
+**`// OFFENSIVE SECURITY`**
 
-![SOC](https://img.shields.io/badge/SOC_Monitoring-0d1117?style=for-the-badge&logo=datadog&logoColor=00f5ff)
-![SIEM](https://img.shields.io/badge/SIEM_Fundamentals-0d1117?style=for-the-badge&logo=splunk&logoColor=00f5ff)
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-0d1117?style=for-the-badge&logo=elastic&logoColor=00f5ff)
-![IR](https://img.shields.io/badge/Incident_Response-0d1117?style=for-the-badge&logo=pagerduty&logoColor=00f5ff)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=for-the-badge&logoColor=ff003c)
-![Kill Chain](https://img.shields.io/badge/Cyber_Kill_Chain-0d1117?style=for-the-badge&logoColor=ff003c)
+![WebPentest](https://img.shields.io/badge/Web_App_Pentesting-0d1117?style=for-the-badge&logo=owasp&logoColor=ff003c)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![XSS](https://img.shields.io/badge/XSS-0d1117?style=for-the-badge&logoColor=ff003c)
+![SQLi](https://img.shields.io/badge/SQL_Injection-0d1117?style=for-the-badge&logoColor=ff6600)
+![CORS](https://img.shields.io/badge/CORS_Attacks-0d1117?style=for-the-badge&logoColor=ff6600)
+![IDOR](https://img.shields.io/badge/IDOR-0d1117?style=for-the-badge&logoColor=ff6600)
+![SSRF](https://img.shields.io/badge/SSRF-0d1117?style=for-the-badge&logoColor=ff003c)
+![Recon](https://img.shields.io/badge/Recon_Automation-0d1117?style=for-the-badge&logo=target&logoColor=00f5ff)
 
-**`// WINDOWS EVENT IDs`**
-
-![4624](https://img.shields.io/badge/4624_Successful_Logon-00ff88?style=flat-square&labelColor=0d1117)
-![4625](https://img.shields.io/badge/4625_Failed_Logon-ff003c?style=flat-square&labelColor=0d1117)
-![4672](https://img.shields.io/badge/4672_Admin_Logon-ff6600?style=flat-square&labelColor=0d1117)
-![4688](https://img.shields.io/badge/4688_Process_Creation-00f5ff?style=flat-square&labelColor=0d1117)
-
-**`// LANGUAGES & SCRIPTING`**
+**`// LANGUAGES & TOOLS`**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**`// TOOLS & PLATFORMS`**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=00f5ff)
+![Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**`// METHODOLOGY & FRAMEWORKS`**
+
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-0d1117?style=for-the-badge&logo=owasp&logoColor=00ff88)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=for-the-badge&logoColor=ff003c)
+![BugBounty](https://img.shields.io/badge/Bug_Bounty_Methodology-0d1117?style=for-the-badge&logo=hackerone&logoColor=ff6600)
+![PortSwigger](https://img.shields.io/badge/PortSwigger_Web_Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 </div>
 
@@ -152,21 +196,23 @@ Real-time file system monitor detecting ransomware-like behavior in a controlled
 ## `> cat certifications.log`
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  [✓] IBM Cybersecurity Analyst Professional Certificate          │
-│      └─ Issuer : IBM                     STATUS : VERIFIED  ✅   │
-│                                                                  │
-│  [✓] Cyber Security 101                                          │
-│      └─ Issuer : TryHackMe               STATUS : VERIFIED  ✅   │
-│                                                                   │
-│  [✓] Pre Security Path                                           │
-│      └─ Issuer : TryHackMe               STATUS : VERIFIED  ✅   │
-│                                                                   │
-│  [✓] Python Certificate                                          │
-│      └─ Issuer : Programming             STATUS : VERIFIED  ✅   │
-│                                                                   │
-└──────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│  [✓] IBM Cybersecurity Analyst Professional Certificate             │
+│      └─ Issuer  : IBM                        STATUS : VERIFIED  ✅  │
+│                                                                      │
+│  [✓] TryHackMe — Top 1% Ranking                                     │
+│      └─ Platform: TryHackMe                  STATUS : ACTIVE   🔥  │
+│                                                                      │
+│  [✓] Cyber Security 101                                             │
+│      └─ Issuer  : TryHackMe                  STATUS : VERIFIED  ✅  │
+│                                                                      │
+│  [✓] Pre Security Path                                              │
+│      └─ Issuer  : TryHackMe                  STATUS : VERIFIED  ✅  │
+│                                                                      │
+│  [ ] eJPT — eLearnSecurity                   STATUS : TARGETED  🎯  │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -200,17 +246,21 @@ Real-time file system monitor detecting ransomware-like behavior in a controlled
 
 ---
 
-## `> ping abhishek --connect`
+## `> ping abhishek --establish-connection`
 
 <div align="center">
 
 ```
-PING abhishek.sec — 56 data bytes
-64 bytes: seq=0  time=0.1ms  ✓  Portfolio
-64 bytes: seq=1  time=0.2ms  ✓  LinkedIn
-64 bytes: seq=2  time=0.3ms  ✓  Gmail
-64 bytes: seq=3  time=0.4ms  ✓  GitHub
---- 4 packets transmitted, 4 received, 0% packet loss ---
+PING abhishek.sec (0.0.0.0) — 56 data bytes
+
+64 bytes: seq=0  ttl=64  time=0.1ms  ✓  abhishek-portfolio-swart-alpha.vercel.app
+64 bytes: seq=1  ttl=64  time=0.2ms  ✓  linkedin.com/in/abhishek-sharma-291a42250
+64 bytes: seq=2  ttl=64  time=0.3ms  ✓  sanhishek72@gmail.com
+64 bytes: seq=3  ttl=64  time=0.4ms  ✓  github.com/Abhi-Sh4rma
+
+--- abhishek.sec ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss ✓
+Connection established. Open to opportunities.
 ```
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-020810?style=for-the-badge&logo=vercel&logoColor=00f5ff)](https://abhishek-portfolio-swart-alpha.vercel.app/)
@@ -226,26 +276,23 @@ PING abhishek.sec — 56 data bytes
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║  SESSION TERMINATED                                           ║
-║                                                               ║
-║  "The attacker only needs to be right once.                   ║
-║   The defender needs to be right every time."                 ║
-║                                                               ║
-║                                    — SOC Operator Motto       ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   CURRENT MISSION : Break things ethically.                      ║
+║   NEXT OBJECTIVE  : Mumbai → Entry-level Pentest / SOC role.     ║
+║   ETA             : June 2026                                    ║
+║                                                                  ║
+║   "The attacker only needs to be right once.                     ║
+║    The defender needs to be right every time."                   ║
+║                                                  — SOC Motto     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"/>
-&nbsp; <em><b>Open to connect</b> — if you want to say hi, I'll be happy to meet you! 😊</em> &nbsp;
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"/>
-
-<br/><br/>
-
-<sub>⭐ If my projects helped you — drop a star! It keeps the SOC running 🛡️</sub>
+<sub>⭐ Star my repos if they helped you — it keeps the recon running 🔍</sub>
 
 </div>
