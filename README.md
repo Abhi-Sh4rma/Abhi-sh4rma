@@ -50,7 +50,7 @@
 class Abhishek:
 
     name      = "Abhishek Sharma"
-    location  = "Ambala → Mumbai (Jun 2026) 🇮🇳"
+    location  = "Ambala 🇮🇳"
     degree    = "B.Tech CSE — MM University (2022–2026)"
 
     track     = "Offensive Security / Bug Bounty"
